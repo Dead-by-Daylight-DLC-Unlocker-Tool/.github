@@ -8,7 +8,7 @@
 ## 🔗 Latest Release of DBD DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Dead-by-Daylight-DLC-Unlocker-Tool/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
